@@ -1,0 +1,22 @@
+
+ul {
+    list-style-type: none;
+}
+
+.listItem {
+    border: 1px solid lightgray;
+    width: 25%;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    font-style: italic;
+    color: gray;
+    
+    
+}
+
+.cross {
+    text-decoration: line-through;
+}
